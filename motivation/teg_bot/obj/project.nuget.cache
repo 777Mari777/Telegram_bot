@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bkwH2a6EhyEC16APTFLhKBGqHFAVBPUV6tmM9YBz725xyc3QJcwxYKJBmjwfkXV32mdvf1XxdajcyHQGidluQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maria\\Desktop\\motivation\\teg_bot\\teg_bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maria\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Maria\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
